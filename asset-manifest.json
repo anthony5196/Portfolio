@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.fcfe69ee.css",
+    "main.js": "/portfolio/static/js/main.2b1c7b1c.js",
+    "static/media/selfie.png": "/portfolio/static/media/selfie.231a753385dfc6c6221d.png",
+    "static/media/slide1.webp": "/portfolio/static/media/slide1.a41651d3e0822cd19e05.webp",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.5b00e52c87247cb118ba.pdf",
+    "static/media/background.webp": "/portfolio/static/media/background.f68146215cd63c0647c5.webp",
+    "static/media/flask.svg": "/portfolio/static/media/flask.611b5611428e497086bc821da6f8511c.svg",
+    "static/media/nodejs.svg": "/portfolio/static/media/nodejs.52cbf9a89f44655c0375b9e9f88bf9c5.svg",
+    "static/media/express.svg": "/portfolio/static/media/express.75fff9be2f3b289ba7be1f43a08f7a4c.svg",
+    "static/media/styled-components.svg": "/portfolio/static/media/styled-components.2e00d138caafe530a6ffdaf27badd9e0.svg",
+    "static/media/react.svg": "/portfolio/static/media/react.add74742e9e8f8827f7fa666dca760db.svg",
+    "static/media/react-bootstrap.svg": "/portfolio/static/media/react-bootstrap.534ba5749ea53d6d943b273291be8174.svg",
+    "static/media/java.svg": "/portfolio/static/media/java.5e8cb917c7f11276e9f9d00d4dce53b5.svg",
+    "static/media/css3.svg": "/portfolio/static/media/css3.8fba365c2c5824342874c7a674943eb8.svg",
+    "static/media/trello.svg": "/portfolio/static/media/trello.bfdfae0fd07bb8ca1030cb6bf862a526.svg",
+    "static/media/redux.svg": "/portfolio/static/media/redux.0e4fb1c819ac4c060c92343147d4ccf7.svg",
+    "static/media/Aha.svg": "/portfolio/static/media/Aha.0827c9effc0dd25a1c8c4adf0cb9c457.svg",
+    "static/media/react-router.svg": "/portfolio/static/media/react-router.a87b722746890c8dcd6e20f04b6d53cd.svg",
+    "static/media/logow.webp": "/portfolio/static/media/logow.4cdb0eb2be812f4af7fb.webp",
+    "static/media/python.svg": "/portfolio/static/media/python.e6d7dc739a91892bbf1f6262412046dd.svg",
+    "static/media/bootstrap-4.svg": "/portfolio/static/media/bootstrap-4.997c463dca63c915b9a51f1caedef8e1.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.740db6be1c6248ce6abab3577896d4d9.svg",
+    "static/media/html-5.svg": "/portfolio/static/media/html-5.821ba738922e8952e57422f7b8a20362.svg",
+    "static/media/jira.svg": "/portfolio/static/media/jira.1b79d9d02350c124716652a3e72b8376.svg",
+    "static/media/javascript.svg": "/portfolio/static/media/javascript.ba40d6a9629bf521391e764a593f9df3.svg",
+    "static/media/git-icon.svg": "/portfolio/static/media/git-icon.c60b7e5ae8ec2562f23fdddcab300026.svg",
+    "index.html": "/portfolio/index.html",
+    "main.fcfe69ee.css.map": "/portfolio/static/css/main.fcfe69ee.css.map",
+    "main.2b1c7b1c.js.map": "/portfolio/static/js/main.2b1c7b1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcfe69ee.css",
+    "static/js/main.2b1c7b1c.js"
+  ]
+}
